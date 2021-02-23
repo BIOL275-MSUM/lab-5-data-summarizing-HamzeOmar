@@ -3,11 +3,9 @@ Lab 5 Assignment
 Hamze Omar
 2021-02-18
 
-Welcome to my lap 5 assignment.
+## Welcome to my lap 5 assignment.
 
-  - The objectives are listed below
-
-  - In this lab, you will learn to:
+  - The objectives of this lab are listed below.
 
   - Rename variables
 

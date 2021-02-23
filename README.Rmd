@@ -5,11 +5,9 @@ date: "2021-02-18"
 output: github_document
 ---
 
-Welcome to my lap 5 assignment.
+## Welcome to my lap 5 assignment.
 
-- The objectives are listed below
-
-- In this lab, you will learn to:
+- The objectives of this lab are listed below.
 
 - Rename variables
 
